@@ -1,11 +1,11 @@
 # ModuleChooser
-Not fully functional program with  graphical interface using Java and JavaFx
-Scalable windows where content is adjusted to available space
-validation of data entered and ammount of credits
-Saving and loading profiles not implemented
+Not fully functional program with  graphical interface using Java and JavaFx </br>
+Scalable windows where content is adjusted to available space</br>
+validation of data entered and ammount of credits</br>
+Saving and loading profiles not implemented</br>
 
 
-Screenshots:
+<h1>Screenshots: </h1>
 First tab to create student profile and choose course
 ![Capture](https://user-images.githubusercontent.com/53794300/194555297-52bf5481-1210-4d7d-990d-b9a41f801ef7.PNG)
 
